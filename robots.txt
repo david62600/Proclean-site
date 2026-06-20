@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proclean-berck.netlify.app/sitemap.xml
